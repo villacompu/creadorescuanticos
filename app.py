@@ -76,7 +76,7 @@ episodios = [
     ("Disciplina, propósito y poder: el arte de ejecutar lo imposible", "https://open.spotify.com/embed/episode/2IxSw7eyX8lH3UXLHscmqQ?utm_source=generator")
 ]
 
-st.title("🎙️ Creadores Cuánticos")
+st.title("🎙️ Creadores Cuánticos – Episodios")
 
 # -------------------------
 # Buscador
