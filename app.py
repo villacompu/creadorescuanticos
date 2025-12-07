@@ -1,6 +1,10 @@
 import streamlit as st
 
-st.set_page_config(page_title="Creadores Cuánticos", layout="centered")
+st.set_page_config(
+    page_title="Creadores Cuánticos",
+    page_icon="🎙️",  # Puedes poner un emoji
+    layout="centered"
+)
 
 # -------------------------
 # CSS PREMIUM – estilo Apple
